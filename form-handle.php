@@ -22,6 +22,4 @@
 
 		$msg = 'Successfully added to database.';
 	}
-	
-	echo '<pre>'; print_r($_POST); echo '</pre>';
 ?>
